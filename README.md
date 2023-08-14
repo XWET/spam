@@ -1,5 +1,5 @@
 # spammer
 run :
 git clone https://github.com/XWET/spammer
-cd spammer
+cd spam
 python spammer.py
