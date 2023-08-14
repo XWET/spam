@@ -1,2 +1,5 @@
 # spammer
-sms bomber ir numbers
+run :
+git clone https://github.com/XWET/spammer
+cd spammer
+python spammer.py
